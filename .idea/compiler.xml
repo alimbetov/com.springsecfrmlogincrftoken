@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com.ruslan.springsecurity" />
+        <module name="com.ruslan.springsecurityformlogin" />
+        <module name="com.ruslan.spring-security-demo" />
+        <module name="com.ruslan.springsecuritybsformlogin" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
